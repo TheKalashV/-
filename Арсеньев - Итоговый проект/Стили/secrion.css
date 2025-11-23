@@ -1,0 +1,12 @@
+.content-section {
+    padding: 80px 0;
+    min-height: 50vh;
+}
+
+.content-section:nth-child(even) {
+    background: #c7c7c7;
+}
+
+.content-section:nth-child(odd) {
+    background: #ffffff;
+}
